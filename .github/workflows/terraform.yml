@@ -1,7 +1,7 @@
 name: Terraform Destroy EKS
 
-on:
-  workflow_dispatch:  # 수동 실행 트리거
+#on:
+  #workflow_dispatch:  # 수동 실행 트리거
 
 jobs:
   destroy:
